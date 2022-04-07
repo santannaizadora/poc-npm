@@ -2,7 +2,7 @@
 
 Bash script para comparar o NPM e o Yarn
 
-Quero ajuda, fiz do jeito mais simples que conheço, mas quero melhorar o script.
+Teste feito por: https://github.com/vcavalcante/yarn-npm-test
 
 
 ## Execute o test
